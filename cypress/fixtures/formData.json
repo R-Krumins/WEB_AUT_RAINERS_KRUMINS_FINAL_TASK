@@ -1,0 +1,19 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "fakeemail@hotmail.com",
+    "gender": "other",
+    "phoneNumber": "694207771",
+    "birthDay": "3",
+    "birthMonth": "5",
+    "birthYear": "1984",
+    "formatedDate": "03 June,1984",
+    "subject": "Economics",
+    "hobby": "music",
+    "pictureFilePath": "",
+    "state": "NCR",
+    "city": "Delhi",
+    "address": "Fun Street 420",
+    "picture": "selfie.jpeg"
+
+}
